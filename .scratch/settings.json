@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "mode": "dark",
+    "customLightColors": null,
+    "customDarkColors": null
+  },
+  "editorFont": null,
+  "gitEnabled": true,
+  "pinnedNoteIds": null,
+  "textDirection": null,
+  "editorWidth": null,
+  "defaultNoteName": "Note-{date}-{time}",
+  "interfaceZoom": null,
+  "customEditorWidthPx": null,
+  "ollamaModel": null,
+  "foldersEnabled": true,
+  "ignoredPatterns": null,
+  "customColorsLight": null,
+  "customColorsDark": null
+}
