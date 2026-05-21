@@ -32,9 +32,7 @@ console.log(proxy.location);
 
 #### Ejemplo 2
 
- 
-
-```
+```javascript
 //ejemplo directo del caso anterior
 const user = new Proxy({}, {
     set(target, prop, value) {
