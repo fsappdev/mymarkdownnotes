@@ -1,7 +1,9 @@
 # Objetos con diccionario -Note 2026 05 21 12 48 40
 
 ```javascript
-//-- ejemplo 1: "display data" y "ver nombre" son propiedades que ejecutan código de 
+//-- ejemplo 1: "display data" y "ver nombre" son propiedades que ejecutan código 
+//crear objetos a partir de otros como si fueran prototipos 😮😎💪
+//Object.create() 
 const empleado = {
     name: "",
     edad: 40,
