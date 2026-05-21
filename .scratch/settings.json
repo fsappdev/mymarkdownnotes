@@ -10,7 +10,7 @@
   "textDirection": null,
   "editorWidth": "custom",
   "defaultNoteName": "Note-{date}-{time}",
-  "interfaceZoom": null,
+  "interfaceZoom": 1.0,
   "customEditorWidthPx": 736,
   "ollamaModel": null,
   "foldersEnabled": true,
