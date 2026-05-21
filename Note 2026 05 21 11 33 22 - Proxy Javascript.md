@@ -1,12 +1,9 @@
-# Note 2026 05 21 11 14 57-ejemplos de Proxy
+# Note 2026 05 21 11 33 22 - Proxy Javascript
 
----
-
-#### ⬇️ ejemplo 1
+#### Ejemplo 1
 
 ```javascript
-/* EXPLICACION */
-/* el obj handler manipula los datos antes de que sea accedidos o seteados en el target*/
+/* ESTE CODIGO YA FUE SUBIDO AL REP. DE NOTAS */
 const target = { name: 'Sarah', age: 25 };
 
 const handler = {
@@ -30,36 +27,15 @@ proxy.location = 'NYC';
 console.log(proxy.toString());
 console.log(proxy.age);
 console.log(proxy.location);
-const target = { name: 'Sarah', age: 25 };
-
-const handler = {
-    get(obj, prop) {
-        if (prop === 'toString') {
-            return () => `Person: ${obj.name}`;
-        }
-        return Reflect.get(obj, prop);
-    },
-    set(obj, prop, value) {
-        if (prop === 'age' && value < 0) {
-            return false;
-        }
-        return Reflect.set(obj, prop, value);
-    }
-};
-
-const proxy = new Proxy(target, handler);
-proxy.age = -5; //no modifica los datos de origen al ser menor que cero
-proxy.location = 'NYC';
-console.log(proxy.toString());
-console.log(proxy.age);
-console.log(proxy.location); 
+/* ESTE CODIGO YA FUE SUBIDO AL REP. DE NOTAS */
 ```
 
-#### ⬇️ ejemplo 2
+#### Ejemplo 2
 
-```javascript
-/* ---- */
-//ejemplo mas directo del caso anterior
+ 
+
+```
+//ejemplo directo del caso anterior
 const user = new Proxy({}, {
     set(target, prop, value) {
         if (prop === 'age') {
