@@ -5,3 +5,5 @@
 [ovnis](https://www.youtube.com/@VettedEspanol)
 
 [roles tech](https://www.youtube.com/watch?v=9yu-3kIeKkc)
+
+[Python for beginners full course](https://www.youtube.com/watch?v=s3KhqPjBPaQ)
