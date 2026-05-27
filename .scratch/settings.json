@@ -11,7 +11,7 @@
   "editorWidth": "custom",
   "defaultNoteName": "Note-{date}-{time}",
   "interfaceZoom": 1.0,
-  "customEditorWidthPx": 736,
+  "customEditorWidthPx": 1446,
   "ollamaModel": null,
   "foldersEnabled": true,
   "ignoredPatterns": null,
