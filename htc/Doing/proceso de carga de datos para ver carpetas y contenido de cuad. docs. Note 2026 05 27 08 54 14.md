@@ -10,7 +10,7 @@
 }
 ```
 
-resultado  
+resultado [render en columna de actuaciones]  
 
 
 ```
@@ -63,7 +63,7 @@ usamos la propiedad alfrescoIdActuacion como nodoId
 }
 ```
 
-resultado
+resultado [render en columna de cuads. documentales]
 
 ```
 {
@@ -142,7 +142,7 @@ usamos la propiedad id como nodoId
 }
 ```
 
-resultado (con carpeta vacía)
+resultado (con carpeta vacía) [render como contenido de cada carpeta (mes)]
 
 ```
 {
@@ -163,7 +163,7 @@ resultado (con carpeta vacía)
 }
 ```
 
-resultado con documentos en la carpeta
+resultado con documentos en la carpeta [render como contenido de cada carpeta (mes)]
 
 ```
 {
