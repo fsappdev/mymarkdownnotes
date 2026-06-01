@@ -1,5 +1,7 @@
 #### Agregar validaciones de roles habilitados para ejecutar x funcion - 2026 06 01 10 47 35
 
+BACKEND.
+
 ```javascript
 const rolesHabilitados = ["secretaria-tec","dal"]
 //validar contra el rol del usuario que accede.
