@@ -19,3 +19,13 @@
 [Como instalar hermes agent](https://www.youtube.com/watch?v=gpbEfTQ1kLU)
 
 [(223) Python Integers vs Floats - Visually Explained - YouTube](https://www.youtube.com/watch?v=1lGXcaK6vqs)
+
+[(223) Creé un INVENTARIO con IA en Apps Script: Chatbot + Factura + Google Sheets - YouTube](https://www.youtube.com/watch?v=k1DfVZmUF90)
+
+[OpenHuman Is The Hermes Agent Killer? - YouTube](https://www.youtube.com/watch?v=MMYWE_HkSGg)
+
+[(7) 1. Operadores en Python - YouTube](https://www.youtube.com/watch?v=iLES6pwNLXw)
+
+[(278) Taller de MCP desde cero: Conecta tu IA a cualquier dato - YouTube](https://www.youtube.com/watch?v=nqzVrkhmNTg)
+
+[(223) Hermes: El Agente IA Open Source que Está Rompiéndola en 2026 🔥 - YouTube](https://www.youtube.com/watch?v=YR-4vFbwe18)
