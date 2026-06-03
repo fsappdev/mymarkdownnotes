@@ -29,3 +29,27 @@
 [(278) Taller de MCP desde cero: Conecta tu IA a cualquier dato - YouTube](https://www.youtube.com/watch?v=nqzVrkhmNTg)
 
 [(223) Hermes: El Agente IA Open Source que Está Rompiéndola en 2026 🔥 - YouTube](https://www.youtube.com/watch?v=YR-4vFbwe18)
+
+---
+
+[(63) ESTE REPOSITORIO TE VA A SALVAR LA VIDA - YouTube](https://www.youtube.com/watch?v=w0CPRjMsm_A)
+
+[(984) ESTE COMPONENTE PARA PANELES TE VA A AHORRAR HORAS - YouTube](https://www.youtube.com/watch?v=Fv6TyarYhwQ)
+
+[(63) HACÉ SELECTORES DE ÁRBOL CON ESTE COMPONENTE - YouTube](https://www.youtube.com/watch?v=4n40uEk8uk0)
+
+[GitHub - atherosai/ui · GitHub](https://github.com/atherosai/ui?tab=readme-ov-file)
+
+[https://learning.atheros.ai/articles](https://learning.atheros.ai/articles)
+
+[(63) MattCoder Snippets - YouTube](https://www.youtube.com/@mattcoder-snippets/videos)
+
+[react-resizable-panels | flexible layout components](https://react-resizable-panels.vercel.app/examples/persistent-layout)
+
+[react-component/tree-select: React Tree Select](https://github.com/react-component/tree-select)
+
+[Examples: Collapsible panels](https://react-resizable-panels.vercel.app/examples/collapsible-panels)
+
+---
+
+ 
