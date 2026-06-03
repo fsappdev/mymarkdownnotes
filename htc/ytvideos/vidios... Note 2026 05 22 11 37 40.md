@@ -14,4 +14,8 @@
 
 [Dia 1- Creando un editor de código mónaco](https://www.youtube.com/watch?v=DiSVzPKlKoM)
 
- 
+[Cazador de contraseñas en Python](https://www.youtube.com/watch?v=sAbshkllBEM)
+
+[Como instalar hermes agent](https://www.youtube.com/watch?v=gpbEfTQ1kLU)
+
+[(223) Python Integers vs Floats - Visually Explained - YouTube](https://www.youtube.com/watch?v=1lGXcaK6vqs)
