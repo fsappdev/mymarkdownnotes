@@ -12,7 +12,6 @@
 
 resultado [render en columna de actuaciones]  
 
-
 ```
 {
     "status": "ok",
@@ -123,7 +122,6 @@ resultado [render en columna de cuads. documentales]
 ```
 
 cada una es una carpeta con contenido.  
- 
 
 #### 3° Luego de haber seleccionado  una de las carpetas(mes) buscamos el contenido de la misma (al mismo tiempo en el frontend se setea como destino esta misma carpeta).
 
@@ -262,5 +260,7 @@ resultado con documentos en la carpeta [render como contenido de cada carpeta (m
     "msg": "datos encontrados - cantidad: 3"
 }
 ```
+
+- [x] completado
 
  
