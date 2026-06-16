@@ -5,5 +5,10 @@
 - Ollama Code Completions
 - LM Studio Copilot
 - Continue con LMStudio
+- Selfcoder - ollama & LM Studio Local AI Codign Agent
+- OmegaAPI AI - Offline AI Agent
+- Ollama view
+- Ollama Autocoder
+-  
 
  
