@@ -292,7 +292,7 @@ Hoy el `status` puede ser tanto un número (`error.response.status`) como un str
 
 ---
 
-4. Resumen de prioridad
+#### 4. Resumen de prioridad
 
 Prioridad	Problema	Solución clave
 🔴 P0	error.response.status crashea si no hay response	Guardar error.code y validar error.response antes de leer .status
