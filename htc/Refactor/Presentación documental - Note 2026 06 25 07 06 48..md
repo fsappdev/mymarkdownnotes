@@ -11,6 +11,7 @@ relacionado con desarrollo/programación.
 - [ ] reordenar los items/documentos como figura en el acuerdo.
 - [ ] determinar calendario para presentación de documentos.
 - [ ] habilitar la carpeta complementarios cuando se haya alcanzado el cierre voluntario o cierre por vencimiento.
+- [ ] ver la forma de implementar fechas de cierres.
 - [ ]  
 
  
