@@ -12,6 +12,7 @@ relacionado con desarrollo/programación.
 - [ ] determinar calendario para presentación de documentos.
 - [ ] habilitar la carpeta complementarios cuando se haya alcanzado el cierre voluntario o cierre por vencimiento.
 - [ ] ver la forma de implementar fechas de cierres.
+- [ ] ver items tildados con un check verde cuando ya están presentados.
 - [ ]  
 
  
