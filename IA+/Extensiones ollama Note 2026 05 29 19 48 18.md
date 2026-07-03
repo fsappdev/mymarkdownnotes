@@ -1,7 +1,7 @@
 # Extensiones ollama Note 2026 05 29 19 48 18
 
 - Ollama copilot
-- Ollama autopilot
+- Ollama autopilot 🤘⭐
 - Ollama Code Completions
 - LM Studio Copilot
 - Continue con LMStudio
