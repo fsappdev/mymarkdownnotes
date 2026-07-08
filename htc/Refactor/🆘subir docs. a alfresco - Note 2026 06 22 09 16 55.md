@@ -1,4 +1,4 @@
-# subir docs. a alfresco - Note 2026 06 22 09 16 55
+# 🆘subir docs. a alfresco - Note 2026 06 22 09 16 55
 
 el objetivo es robustecer el proceso para incluir el manejo de posibles errores no considerados.
 
@@ -271,13 +271,9 @@ if (file['file'].size && file['file'].size > 25 * 1024 * 1024) {
 - Quitar `console.log("🚧FILE-B🚧", file['file'].data)` (binario en logs).
 - Reemplazar `console.log` por `logger` en `subirDocumentoAlfresco`.
 
- 
+#### 3.8. Manejo de errores óptimo a nivel frontend
 
- 
-
-#### 3.8. Manejo de errores óptimo a nivel frontend  
 Alinear el contract: `subirDocumentoAlfresco` siempre debe devolver algo con la forma `{status, data, msg}`:  
-
 
 
 | tatus devuelto            | significado          | acción frontend                        |
@@ -307,8 +303,3 @@ Prioridad	Problema	Solución clave
 🟡 P2	Código muerto del segundo obj	Eliminar
 🟡 P2	Logs con binario sensible	Quitar console.log(file['file'].data)
 El punto más crítico y el desencadenante típico de "colgados" frente al frontend es la combinación de P0-1 (crash en el catch) + P0-2 (sin timeout): la subida nunca termina ni retorna un error utilizable, el navegador corte por 504, y el backend queda con recursos bloqueados. Ese es el primer frente a atacar.
-
-  
-
-
- 
