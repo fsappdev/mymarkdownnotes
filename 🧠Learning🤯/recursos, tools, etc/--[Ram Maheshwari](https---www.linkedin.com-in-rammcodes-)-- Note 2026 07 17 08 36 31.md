@@ -6,11 +6,13 @@
 
 [https://it-tools.tech/](https://it-tools.tech/)  cat>🛠️ herramientas IT
 
-[https://boneyard.vercel.app/overview](https://boneyard.vercel.app/overview) cat> 💻
+[https://boneyard.vercel.app/overview](https://boneyard.vercel.app/overview) cat> 💻 skeletons generados en forma dinamica.
 
 [https://caddyserver.com/](https://caddyserver.com/) cat> 🛠️ alternativa a nginx
 
 [https://bigmike.help/es/](https://bigmike.help/es/) cat>🧠💻 sugrencias sobre infra.
+
+ 
 
  
 
