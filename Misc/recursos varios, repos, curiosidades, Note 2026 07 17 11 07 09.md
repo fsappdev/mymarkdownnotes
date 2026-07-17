@@ -8,4 +8,6 @@ FingerprintJS is a free, open-source browser fingerprinting library that helps r
 
 [https://aiengineeringfromscratch.com/](https://aiengineeringfromscratch.com/)  aprender sobre IA
 
+[https://namethatui.com/](https://namethatui.com/)  usar el lenguaje natural para buscar tipos de componentes de UIs.
+
  
