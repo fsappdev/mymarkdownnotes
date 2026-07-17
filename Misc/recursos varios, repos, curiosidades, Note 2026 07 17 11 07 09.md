@@ -2,4 +2,10 @@
 
 [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) repo para hacer una app de ejercicios.
 
+[https://github.com/slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) aprender sobre agentes.
+
+FingerprintJS is a free, open-source browser fingerprinting library that helps recognize returning browsers without relying on cookies.
+
+[https://aiengineeringfromscratch.com/](https://aiengineeringfromscratch.com/)  aprender sobre IA
+
  
