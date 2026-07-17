@@ -12,8 +12,6 @@ FingerprintJS is a free, open-source browser fingerprinting library that helps r
 
 [https://github.com/ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) 500 ai-agents 🤯⚠️🤘
 
-[https://github.com/mayukh4/linux-android](https://github.com/mayukh4/linux-android) convertir un cel en un server-linux
+[https://github.com/mayukh4/linux-android](https://github.com/mayukh4/linux-android) convertir un celular android en un server-linux
 
- 
-
- 
+[https://github.com/Derssa/Torollo](https://github.com/Derssa/Torollo) graficar backend servers.
