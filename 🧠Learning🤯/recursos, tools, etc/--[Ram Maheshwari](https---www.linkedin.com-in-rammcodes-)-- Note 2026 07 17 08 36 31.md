@@ -12,10 +12,6 @@
 
 [https://bigmike.help/es/](https://bigmike.help/es/) cat>🧠💻 sugrencias sobre infra.
 
- 
-
- 
-
- 
+[https://github.com/Derssa/Torollo](https://github.com/Derssa/Torollo) graficar backend servers.
 
  
