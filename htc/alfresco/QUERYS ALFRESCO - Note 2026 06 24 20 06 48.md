@@ -1,8 +1,8 @@
-# QUERYS - Note 2026 06 24 20 06 48
+# QUERYS ALFRESCO - Note 2026 06 24 20 06 48
 
  
 
-#### 1️⃣- buscar una carpeta a partir de una carpeta padrea (aclaración... la búsqueda se hace recién a partir del segundo nivel del árbol).
+#### 1️⃣- buscar una carpeta a partir de una carpeta padre (aclaración... la búsqueda se hace recién a partir del segundo nivel del árbol).
 
 ```
 URL = http://localhost:8080/alfresco/api/-default-/public/search/versions/1/search
@@ -26,6 +26,12 @@ body:
     "query": "SELECT * FROM cmis:folder WHERE IN_TREE('workspace://SpacesStore/4d8b8888-f6bc-416d-ab5f-2d9f1e9a9e1c') AND cmis:name LIKE '04-Complemen%'"
     ,"language": "cmis"
   }
+  /* ,
+
+   "paging": {
+       "maxItems": 10,
+       "skipCount": 0
+   } */
 }
 //[ok⬆️]
 {
