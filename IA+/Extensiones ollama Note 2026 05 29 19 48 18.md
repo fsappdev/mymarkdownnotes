@@ -11,4 +11,12 @@
 - Ollama Autocoder
 -  
 
+Otras extensiones para LM Studio (remoto, no ollama)
+
+- Github Copilot LLM Gateway  🤷‍♂️
+- LM Studio for Copilot Chat 🆗❤️ [habilita usar LM Studio server en el agente de GHCopilot chat, como provider]
+- Local LLM Copilot 🤷‍♂️🆘
+- llama-vscode
+- LM Studio Copilot ❤️🆗 [autocompletado de código]
+
  
