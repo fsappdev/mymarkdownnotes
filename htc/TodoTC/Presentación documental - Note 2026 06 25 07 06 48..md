@@ -14,7 +14,8 @@
 - [x] habilitar la carpeta complementarios cuando se haya alcanzado el cierre voluntario o cierre por vencimiento.
 - [x] ver la forma de implementar fechas de cierres.
 - [x] ver items tildados con un check verde cuando ya están presentados.
-- [ ] terminar ver resumen de cuads documentales.
-- [ ]  
+- [x] terminar ver resumen de cuads documentales.
+
+- [ ]
 
  
