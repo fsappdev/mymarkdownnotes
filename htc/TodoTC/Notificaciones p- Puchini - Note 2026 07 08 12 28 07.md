@@ -2,6 +2,6 @@
 
 - [ ] crear una funcionalidad para "rectificar" notificaciones, la idea es poder hacer correcciones sobre notificaciones realizadas reemplazando la anterior.
 - [ ] crear un mod. para que puchini o quien sea pueda cargar las fechas de vencimientos de los disintitos cuads. docs. de cada orgsmo.
-- [ ]  
+- [ ] adaptar paneles para expandir lateralmente cuando se crea una notificacion (ibars) o cualquiera.
 
  
