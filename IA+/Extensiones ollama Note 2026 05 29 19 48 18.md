@@ -18,6 +18,7 @@ Otras extensiones para LM Studio (remoto, no ollama)
 - Local LLM Copilot 🤷‍♂️🆘
 - llama-vscode
 - LM Studio Copilot ❤️🆗 [autocompletado de código]
+- **Copilot + LM Studio — Local AI**
 
 config. para codear en casa con IA:
 
@@ -34,5 +35,9 @@ opción 2 : LM Studio con vscode..
 2- Instalar LM Studio for Copilot chat. Agrega LM Studio provider a gh copilot chat.
 
  
+
+Mas extensiones.
+
+- Lunaris Code
 
  
