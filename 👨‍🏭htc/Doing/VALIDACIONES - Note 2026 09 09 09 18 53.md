@@ -1,4 +1,11 @@
-# Flujo del proceso de validación del NOTIFICADOR- Note 2026 09 09 09 18 53
+# VALIDACIONES - Note 2026 09 09 09 18 53
+
+#### Flujo del proceso de validación del DELGADO 
+
+1. actualizar el estado de la ddjj (primera instancia)
+2. en caso de error, deshacer cambios en BD.
+
+#### Flujo del proceso de validación del NOTIFICADOR 
 
 1. crear la novedad en BD
 2. buscar destino dentro de la carpeta actuación usando los datos de la ddjj.
