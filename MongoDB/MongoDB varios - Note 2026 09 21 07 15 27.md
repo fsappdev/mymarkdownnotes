@@ -2,15 +2,7 @@
 
 ```javascript
 // * buscar un array que tenga mas de 1 elemento.
-{
-  '$expr': {
-    '$gt': [
-      {
-        '$size': '$receptoresNames'
-      }, 1
-    ]
-  }
-}
+{$expr:{$gt:[{$size:'$receptoresNames'},1]}}
 ```
 
  
