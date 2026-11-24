@@ -12,6 +12,7 @@
 - [ ] utilizar el array para configurar en el server las rutas disponibles para cada tipo de user.
 - [ ] hacer una func. que cuando se produzca un fallo active el atom que guarde un log de errores en el navegador y al mismo tiempo emita un mensaje al server/para captar y guardar el error, atenderlo.
 - [ ] Un generador de componentes: usando unicamente el modelo(bd) crear un ABM.
+- [ ] ⭐✨crear una IFG para un user tipo admin/donde se permitan ver registros de cambios. (simil changelog,  inspirado en: [https://antigravity.google/docs/changelog?tab=ide](https://antigravity.google/docs/changelog?tab=ide))
 - [ ]  
 
  
